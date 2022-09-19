@@ -23,3 +23,4 @@ plt.show()
 
 r = poisson.rvs(mu_lst[0], size=1000)
 print(r)
+
